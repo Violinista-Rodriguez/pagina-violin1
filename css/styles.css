@@ -1,0 +1,26 @@
+body {
+    background-color: #000000; /* Fondo negro oscuro */
+    color: white; /* Texto blanco */
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+header {
+    background-color: #1a1a1a; /* Fondo ligeramente más claro */
+    padding: 50px 0;
+}
+
+h1, h2, p {
+    color: white;
+}
+
+.card {
+    border: none;
+    background-color: #2c2c2c; /* Fondo de las tarjetas en gris oscuro */
+}
+
+footer {
+    background-color: #1a1a1a;
+}
